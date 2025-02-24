@@ -247,7 +247,12 @@ display: block;
 .btn:hover{
     background: #ff004f;
 }
-/*.................................*/
+/*-------------------elevation pitch-----------------*/
+#Elevator pitch{
+    padding: 50px 0;
+ }
+
+/*..................contact...............*/
 .contact-left{
     flex-basis: 35%;
 }
